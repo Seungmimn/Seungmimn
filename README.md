@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungmimn&hide=SWIG,Makefile,CSS,html,Assembly)
 
-# Stacts
+# Stacks
 
 ![cc](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
