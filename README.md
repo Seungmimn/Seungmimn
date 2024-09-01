@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 [![Seungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungmimn)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungmimn)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungmimn&hide=SWIG,Makefile,CSS,html,Assembly)
 
 # Stacts
 
